@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0210: Преобразовать в операторы верхнего уровня
+csharp_style_prefer_top_level_statements = true
